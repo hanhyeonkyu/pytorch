@@ -88,7 +88,20 @@
 
 ### RecurrentNeuralNetwork
 [RecurrentNeuralNetwork](RecurrentNeuralNetwork.ipynb)
-1. RNN(Recurrent Neural Network)
+1. RNN(Recurrent Neural Network) definition
+2. Deep RNN
+3. Bidirectional RNN
+4. LSTM
+
+### TextGeneratorRNN
+[TextGeneratorRNN](TextGeneratorRNN.ipynb)
+1. make char with Char RNN
+2. make sentense with Char RNN
+3. make sentense with word embedding RNN
+
+### TextClassificationRNN
+[TextClassificationRNN](TextClassificationRNN.ipynb)
+1. TextClassificationRNN
 
 ### ModelExportImport
 [ModelExportImport](ModelExportImport.ipynb)
